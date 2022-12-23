@@ -1,5 +1,7 @@
 package main
 
+// All rights reserved by Karthik Banjan
+
 import (
 	"fmt"
 	"github.com/astralservices/go-dalle"
@@ -12,9 +14,9 @@ import (
 
 // Bot Variables and DALL-E clients
 var (
-	token      = "MTA1NTc4MTAxMzU3OTYzMjY4Mg.GwuCrX.x7639_esF1KsTHn6P9Ii5qktLy4WBd4mDbZlP8"
+	token      = "Paste the discord bot token here!"
 	botPrefix  = "!"
-	openApiKey = "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"
+	openApiKey = "Paste the OpenAPI key here"
 	client     = dalle.NewClient(openApiKey)
 )
 
