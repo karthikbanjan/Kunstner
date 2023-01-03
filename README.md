@@ -2,7 +2,7 @@
 [![Java](https://img.shields.io/github/languages/top/karthikbanjan/Kunstner)]()
 
 # Kunstner - A Discord DALL-E Mediator
-Image creation bot utilizing the DALL-E for discord servers. Written in Go.
+Image creation bot utilizing the DALL-E for discord servers. Written in Go. Done as part of 7th semester mini-project.
 
 ## Preview
 
